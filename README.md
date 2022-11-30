@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thot22 Thotsem Jajo, a guy who have passion for technology
+- 👋 Hi, I’m @Thot22 Thotsem Jajo, a guy who loves to code
 - 👀 I’m interested in web development projects (html css and javascript)
 - 🌱 I’m currently learning node.js for backend tho I'm still pushing myself as a beginner
 - 💞️ I’m looking for peoples that have the same passion as much as i do and collaborate someday on projects so that I can improve my skills
