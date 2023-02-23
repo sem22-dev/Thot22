@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Thot22 Thotsem Jajo, a guy who loves to code
-- 👀 I’m interested in web development projects (html css and javascript)
-- 🌱 I’m currently learning and still pushing myself towards different techs
-- 💞️ I’m looking for peoples that have the same passion as much as i do and collaborate on projects
+- 👋 Hi, I’m @Thot22,Thotsem Jajo
+- 👀 I’m interested in web development projects (react)
+- 🌱 Learning and experimenting everyday
+- 💞️ Feel free to contact me. Let's build something great together!
 - 📫 How to reach me, thotjj22@gmail.com or [Linked](https://www.linkedin.com/in/thotsem-jajo-30909a244/)
 
 <!---
