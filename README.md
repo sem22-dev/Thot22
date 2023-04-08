@@ -9,6 +9,5 @@ Thot22/Thot22 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![Summary](https://raw.githubusercontent.com/your-github-username/sem22-dev/profile-summary-card-output/default/0-profile-details.svg)
 
 
