@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sem22-dev&show_icons=true&theme=radical)
 
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sem22-dev&theme=radical&exclude={exclude}
+
